@@ -1,0 +1,6 @@
+<map id="Online_Book_Store_v2.Customer.getInstance" name="Online_Book_Store_v2.Customer.getInstance">
+<area shape="rect" id="node2" href="$class_online___book___store__v2_1_1_data_base.html#a07d10023dd397823efdf460161f4bfac" title="giris yaparken kullanilir veriler dogru mu degil mi kontrol eder. " alt="" coords="313,5,497,47"/>
+<area shape="rect" id="node3" href="$class_online___book___store__v2_1_1_fatura.html#a3dab439fb4a855e53b6fa8cf6c81cd4b" title="fatura olusturulur, formda gosterimi yapilir " alt="" coords="306,71,505,112"/>
+<area shape="rect" id="node4" href="$class_online___book___store__v2_1_1_logger.html#ae8555ba910890bfc45d8e34e3f53150a" title="Online_Book_Store_v2.Logger.logger" alt="" coords="288,137,523,163"/>
+<area shape="rect" id="node5" href="$class_online___book___store__v2_1_1_main_form.html#a65a05cc2f6750e1de6a2d4cae6da4910" title="Online_Book_Store_v2.Main\lForm.MainForm" alt="" coords="313,188,498,229"/>
+</map>

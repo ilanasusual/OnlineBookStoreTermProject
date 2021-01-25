@@ -1,0 +1,5 @@
+<map id="Online_Book_Store_v2.ProductPanel" name="Online_Book_Store_v2.ProductPanel">
+<area shape="rect" id="node3" href="$class_online___book___store__v2_1_1_book_panel.html" title="inheritance product panel to book panel " alt="" coords="372,5,559,47"/>
+<area shape="rect" id="node4" href="$class_online___book___store__v2_1_1_magazine_panel.html" title="magazine gosterimi icin ozel panel, productpanel ile inheritance iliskisi vardir. ..." alt="" coords="359,71,572,112"/>
+<area shape="rect" id="node5" href="$class_online___book___store__v2_1_1_music_c_d_panel.html" title="müziklerin gösterildiği panel. " alt="" coords="369,136,561,177"/>
+</map>

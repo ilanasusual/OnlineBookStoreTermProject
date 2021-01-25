@@ -1,0 +1,5 @@
+<map id="Online_Book_Store_v2.BookPanel" name="Online_Book_Store_v2.BookPanel">
+<area shape="rect" id="node2" href="$class_online___book___store__v2_1_1_product_panel.html" title="muzik kitap ve dergi panellerinin base paneli. " alt="" coords="5,81,105,108"/>
+<area shape="rect" id="node4" href="$class_online___book___store__v2_1_1_book.html" title="kitap class&#39;i ve genel uye verileri " alt="" coords="130,81,317,108"/>
+<area shape="rect" id="node5" href="$class_online___book___store__v2_1_1_product.html" title="ürünlerin bilgilerini tutan base class. " alt="" coords="190,5,257,32"/>
+</map>
